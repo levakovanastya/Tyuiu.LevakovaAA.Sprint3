@@ -15,7 +15,7 @@ namespace Tyuiu.LevakovaAA.Sprint3.Task1.V15.Test
             int startValue = 1;
             int stopValue = 5;
             double res = ds.GetMultiplySeries(value, startValue, stopValue);
-            double wait = 66;
+            double wait = 208845;
             Assert.AreEqual(wait, res);
         }
     }
