@@ -11,7 +11,7 @@ namespace Tyuiu.LevakovaAA.Sprint3.Task0.V5.Lib
         {
             double sumSeries = 0;
             int i;
-            for ( i = startValue; i < stopValue; i++ )
+            for ( i = startValue; i <= stopValue; i++ )
             {
                 sumSeries = sumSeries + Math.Pow((1 / Math.Sin(i)), 2);
             }

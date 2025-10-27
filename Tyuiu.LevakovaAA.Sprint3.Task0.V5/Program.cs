@@ -30,7 +30,7 @@ namespace Tyuiu.LevakovaAA.Sprint3.Task0.V5
             int startValue = 1;
             int stopValue = 10;
 
-            Console.WriteLine("Старт шага = " + startValue);
+            Console.WriteLine("Стaрт шага = " + startValue);
             Console.WriteLine("Конец шага = " + stopValue);
 
             Console.WriteLine("***************************************************************************");
